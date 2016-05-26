@@ -1,0 +1,15 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Whiteplane is a whitespace interpreter writen in Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Takuya Katsurada <mail@nutcrack.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "power-assert": "^1.4.1"
+  }
+}
