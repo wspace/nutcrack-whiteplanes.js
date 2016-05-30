@@ -1,4 +1,4 @@
-# Whiteplanes
+# Whiteplanes.js
 [![Build Status](https://travis-ci.org/whiteplanes/whiteplanes.js.svg?branch=master)](https://travis-ci.org/whiteplanes/whiteplanes.js)
 
 Whiteplane is a whitespace interpreter writen in Javascript.
