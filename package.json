@@ -1,5 +1,5 @@
 {
-  "name": "javascript",
+  "name": "whiteplanes",
   "version": "1.0.0",
   "description": "Whiteplane is a whitespace interpreter writen in Javascript.",
   "main": "index.js",
